@@ -1,0 +1,737 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"comm",
+				"comment_id"
+			],
+			[
+				"comme",
+				"comment"
+			],
+			[
+				"is",
+				"isAuthenticated"
+			],
+			[
+				"inl",
+				"inline\tdisplay"
+			],
+			[
+				"find",
+				"findById"
+			],
+			[
+				"cam",
+				"campgrounds"
+			],
+			[
+				"camp",
+				"campgrounds"
+			],
+			[
+				"commen",
+				"comment"
+			],
+			[
+				"Commen",
+				"Comment"
+			],
+			[
+				"res",
+				"res"
+			],
+			[
+				"User",
+				"UserSchema"
+			],
+			[
+				"req",
+				"require"
+			],
+			[
+				"bodrps",
+				"bodyParser"
+			],
+			[
+				"ser",
+				"serializeUser"
+			],
+			[
+				"Use",
+				"UserSchema"
+			],
+			[
+				"e",
+				"em\tTag"
+			],
+			[
+				"mo",
+				"mongoose"
+			],
+			[
+				"seed",
+				"seedDB"
+			],
+			[
+				"po",
+				"posts"
+			],
+			[
+				"post",
+				"post"
+			],
+			[
+				"user",
+				"user"
+			],
+			[
+				"new",
+				"newUser"
+			],
+			[
+				"express",
+				"expressSanitizer"
+			],
+			[
+				"de",
+				"Delete"
+			],
+			[
+				"in",
+				"inline\tdisplay"
+			],
+			[
+				"meth",
+				"methodOverride"
+			],
+			[
+				"found",
+				"foundBlog"
+			],
+			[
+				"re",
+				"render"
+			],
+			[
+				"blog",
+				"Blog"
+			],
+			[
+				"btn",
+				"btn-primary"
+			],
+			[
+				"S",
+				"String"
+			],
+			[
+				"ca",
+				"Cat"
+			],
+			[
+				"Cats",
+				"cats"
+			],
+			[
+				"cat",
+				"Cat"
+			],
+			[
+				"marg",
+				"margin-top\tproperty"
+			],
+			[
+				"max",
+				"max-height\tproperty"
+			],
+			[
+				"co",
+				"col-md-3"
+			],
+			[
+				"body",
+				"bodyParser"
+			],
+			[
+				"bo",
+				"bodyParser"
+			],
+			[
+				"frin",
+				"friend"
+			],
+			[
+				"frie",
+				"friends"
+			],
+			[
+				"f",
+				"friends"
+			],
+			[
+				"if",
+				"if\tif"
+			],
+			[
+				"ran",
+				"randomPrice"
+			],
+			[
+				"ra",
+				"randomProduct"
+			],
+			[
+				"l",
+				"length"
+			],
+			[
+				"scores",
+				"scores2"
+			],
+			[
+				"key",
+				"keyData"
+			],
+			[
+				"java",
+				"javascript1"
+			],
+			[
+				"tr",
+				"transition\tproperty"
+			],
+			[
+				"T",
+				"To-do"
+			],
+			[
+				"box",
+				"box-sizing\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"bac",
+				"background\tproperty"
+			],
+			[
+				"pad",
+				"padding-top\tproperty"
+			],
+			[
+				"font",
+				"font-family\tproperty"
+			],
+			[
+				"bacc",
+				"background-color\tproperty"
+			],
+			[
+				"num",
+				"numSquares"
+			],
+			[
+				"eas",
+				"easyBtn"
+			],
+			[
+				"back",
+				"background-size\tproperty"
+			],
+			[
+				"fun",
+				"fun\tFunction"
+			],
+			[
+				"squaer",
+				"squares"
+			],
+			[
+				"color",
+				"colorDislay"
+			],
+			[
+				"colo",
+				"color_game"
+			],
+			[
+				"pla",
+				"playingTo"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"cl",
+				"classList"
+			],
+			[
+				"tex",
+				"textContent"
+			],
+			[
+				"a",
+				"addEventListener"
+			],
+			[
+				"g",
+				"gameOver"
+			],
+			[
+				"p1",
+				"p1score"
+			],
+			[
+				"list",
+				"listTodo"
+			],
+			[
+				"to",
+				"todo"
+			],
+			[
+				"t",
+				"todo"
+			],
+			[
+				"nm",
+				"nm"
+			],
+			[
+				"pr",
+				"Print"
+			],
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"ow",
+				"overflow\tproperty"
+			],
+			[
+				"col-",
+				"col-md-2"
+			],
+			[
+				"u",
+				"uppercase\ttext-transform"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"bored",
+				"border-left\tproperty"
+			],
+			[
+				"border",
+				"border\tproperty"
+			],
+			[
+				"textal",
+				"text-align\tproperty"
+			],
+			[
+				"margin",
+				"margin\tproperty"
+			],
+			[
+				"you",
+				"youtube"
+			],
+			[
+				"i",
+				"i\tTag"
+			],
+			[
+				"inline",
+				"inline-block\tdisplay"
+			],
+			[
+				"backgr",
+				"background\tproperty"
+			],
+			[
+				"background",
+				"background-size\tproperty"
+			],
+			[
+				"country",
+				"country_name"
+			],
+			[
+				"auto",
+				"autofocus\tAttr"
+			],
+			[
+				"email",
+				"email_address"
+			],
+			[
+				"col",
+				"col\tTag"
+			],
+			[
+				"fig",
+				"figcaption\tTag"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"p",
+				"p\tTag"
+			],
+			[
+				"backgo",
+				"background-color"
+			],
+			[
+				"opt",
+				"option\tTag"
+			],
+			[
+				"se",
+				"select\tTag"
+			],
+			[
+				"MET",
+				"meta"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"for",
+				"form\tTag"
+			],
+			[
+				"fo",
+				"form\tTag"
+			],
+			[
+				"text",
+				"textarea\tTag"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"Th",
+				"Th"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"op",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"Package Control: Install Package",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"About"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 120.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/USER/Documents/WEB DEVELOPING/Yelp camp/v10/views/campgrounds/edit.ejs",
+		"/C/Users/USER/Documents/WEB DEVELOPING/Yelp camp/v10/views/campgrounds/new.ejs",
+		"/C/Users/USER/Documents/WEB DEVELOPING/Yelp camp/v10/models/campground.js",
+		"/C/Users/USER/Documents/WEB DEVELOPING/Yelp camp/v10/routes/comments.js",
+		"/C/Users/USER/Documents/WEB DEVELOPING/Yelp camp/v10/middleware/index.js",
+		"/C/Users/USER/Documents/WEB DEVELOPING/Yelp camp/v10/views/campgrounds/show.ejs",
+		"/C/Users/USER/Documents/WEB DEVELOPING/Yelp camp/v10/routes/index.js",
+		"/C/Users/USER/Documents/WEB DEVELOPING/Yelp camp/v10/routes/campground.js",
+		"/C/Users/USER/Documents/WEB DEVELOPING/Yelp camp/v10/app.js",
+		"/C/Users/USER/Documents/WEB DEVELOPING/Yelp camp/v10/views/comments/new.ejs",
+		"/C/Users/USER/Documents/WEB DEVELOPING/Yelp camp/v10/views/comments/edit.ejs",
+		"/C/Users/USER/Documents/WEB DEVELOPING/restful blog app/app.js",
+		"/C/Users/USER/Documents/WEB DEVELOPING/Yelp camp/v10/views/partials/header.ejs",
+		"/C/Users/USER/Documents/WEB DEVELOPING/Yelp camp/v10/public/stlyesheets/main.css",
+		"/C/Users/USER/Documents/WEB DEVELOPING/Yelp camp/v9/models/campground.js",
+		"/C/Users/USER/Documents/WEB DEVELOPING/Yelp camp/v9/views/campgrounds/show.ejs",
+		"/C/Users/USER/Documents/WEB DEVELOPING/Yelp camp/v9/routes/campground.js",
+		"/C/Users/USER/Documents/WEB DEVELOPING/Yelp camp/v9/routes/comments.js",
+		"/C/Users/USER/Documents/WEB DEVELOPING/Yelp camp/v9/views/campgrounds/new.ejs",
+		"/C/Users/USER/Documents/WEB DEVELOPING/Yelp camp/v8/models/comment.js",
+		"/C/Users/USER/Documents/WEB DEVELOPING/Yelp camp/v8/views/comments/new.ejs",
+		"/C/Users/USER/Documents/WEB DEVELOPING/Yelp camp/v8/views/campgrounds/show.ejs",
+		"/C/Users/USER/Documents/WEB DEVELOPING/Yelp camp/v8/views/campgrounds/campgrounds.ejs",
+		"/C/Users/USER/Documents/WEB DEVELOPING/Yelp camp/v8/app.js",
+		"/C/Users/USER/Documents/WEB DEVELOPING/Yelp camp/v8/routes/comments.js",
+		"/C/Users/USER/Documents/WEB DEVELOPING/Yelp camp/v6/app.js",
+		"/C/Users/USER/Documents/WEB DEVELOPING/Yelp camp/v7/app.js",
+		"/C/Users/USER/Documents/WEB DEVELOPING/Yelp camp/v8/seeds.js",
+		"/C/Users/USER/Documents/WEB DEVELOPING/Yelp camp/v8/models/user.js",
+		"/C/Users/USER/Documents/WEB DEVELOPING/Yelp camp/v6/models/user.js",
+		"/C/Users/USER/Documents/WEB DEVELOPING/Yelp camp/v6/views/comments/new.ejs",
+		"/C/Users/USER/Documents/WEB DEVELOPING/Yelp camp/v6/views/register.ejs",
+		"/C/Users/USER/Documents/WEB DEVELOPING/Yelp camp/v6/views/login.ejs",
+		"/C/Users/USER/Documents/WEB DEVELOPING/Yelp camp/v6/views/campgrounds/campgrounds.ejs",
+		"/C/Users/USER/Documents/WEB DEVELOPING/Yelp camp/v6/views/partials/header.ejs",
+		"/C/Users/USER/Documents/WEB DEVELOPING/Yelp camp/v7/routes/campground.js",
+		"/C/Users/USER/Documents/WEB DEVELOPING/Yelp camp/v7/routes/comments.js",
+		"/C/Users/USER/Documents/WEB DEVELOPING/Yelp camp/v7/routes/index.js",
+		"/C/Users/USER/Documents/WEB DEVELOPING/authentication/auth demo/views/home.ejs",
+		"/C/Users/USER/Documents/WEB DEVELOPING/authentication/auth demo/views/secret.ejs",
+		"/C/Users/USER/Documents/WEB DEVELOPING/authentication/auth demo/model/user.js",
+		"/C/Users/USER/Documents/WEB DEVELOPING/authentication/auth demo/views/register.ejs",
+		"/C/Users/USER/Documents/WEB DEVELOPING/authentication/auth demo/views/login.ejs",
+		"/C/Users/USER/Documents/WEB DEVELOPING/authentication/auth demo/app.js",
+		"/C/Users/USER/Documents/WEB DEVELOPING/Yelp camp/v5/app.js",
+		"/C/Users/USER/Documents/WEB DEVELOPING/Yelp camp/v2/views/campgrounds.ejs",
+		"/C/Users/USER/Documents/WEB DEVELOPING/Yelp camp/v5/views/campgrounds/show.ejs",
+		"/C/Users/USER/Documents/WEB DEVELOPING/Yelp camp/v5/public/stlyesheets/main.css",
+		"/C/Users/USER/Documents/WEB DEVELOPING/Yelp camp/v5/views/partials/header.ejs",
+		"/C/Users/USER/Documents/WEB DEVELOPING/Yelp camp/v2/views/show.ejs",
+		"/C/Users/USER/Documents/WEB DEVELOPING/Yelp camp/v2/app.js",
+		"/C/Users/USER/Documents/WEB DEVELOPING/Yelp camp/v5/seeds.js",
+		"/C/Users/USER/Documents/WEB DEVELOPING/Yelp camp/v5/models/campground.js",
+		"/C/Users/USER/Documents/WEB DEVELOPING/Yelp camp/v4/views/comments/new.ejs",
+		"/C/Users/USER/Documents/WEB DEVELOPING/Yelp camp/v4/views/campgrounds/show.ejs",
+		"/C/Users/USER/Documents/WEB DEVELOPING/Yelp camp/v4/views/campgrounds/new.ejs",
+		"/C/Users/USER/Documents/WEB DEVELOPING/Yelp camp/v4/views/campgrounds/landing.ejs",
+		"/C/Users/USER/Documents/WEB DEVELOPING/Yelp camp/v4/views/campgrounds/campgrounds.ejs",
+		"/C/Users/USER/Documents/WEB DEVELOPING/Yelp camp/v4/app.js",
+		"/C/Users/USER/Documents/WEB DEVELOPING/Yelp camp/v3/models/comment.js",
+		"/C/Users/USER/Documents/WEB DEVELOPING/associations/models/posts.js",
+		"/C/Users/USER/Documents/WEB DEVELOPING/associations/refrences.js",
+		"/C/Users/USER/Documents/WEB DEVELOPING/Yelp camp/v3/seeds.js",
+		"/C/Users/USER/Documents/WEB DEVELOPING/Yelp camp/v3/models/campground.js",
+		"/C/Users/USER/Documents/WEB DEVELOPING/Yelp camp/v3/views/show.ejs",
+		"/C/Users/USER/Documents/WEB DEVELOPING/Yelp camp/v3/app.js",
+		"/C/Users/USER/Downloads/ Udemy - the-advanced-web-developer-bootcamp/01 Course Introduction/001 The Story Of This Course-en.srt",
+		"/C/Users/USER/Documents/WEB DEVELOPING/associations/models/user.js",
+		"/C/Users/USER/Documents/WEB DEVELOPING/associations/embed.js",
+		"/C/Users/USER/Documents/WEB DEVELOPING/restful blog app/public/stylesheets/app.css",
+		"/C/Users/USER/Documents/WEB DEVELOPING/restful blog app/views/partials/header.ejs",
+		"/C/Users/USER/Documents/WEB DEVELOPING/restful blog app/views/partials/footer.ejs",
+		"/C/Users/USER/Documents/WEB DEVELOPING/restful blog app/views/new.ejs",
+		"/C/Users/USER/Documents/WEB DEVELOPING/restful blog app/views/show.ejs",
+		"/C/Users/USER/Documents/WEB DEVELOPING/restful blog app/views/edit.ejs",
+		"/C/Users/USER/Documents/WEB DEVELOPING/restful blog app/views/index.ejs",
+		"/C/Users/USER/Documents/WEB DEVELOPING/restful blog app/package.json",
+		"/C/Users/USER/Documents/WEB DEVELOPING/restful blog app/stylesheets/app.css",
+		"/C/Users/USER/Documents/WEB DEVELOPING/blog app/index.js",
+		"/C/Users/USER/Documents/WEB DEVELOPING/blog app/app.js",
+		"/C/Users/USER/Documents/WEB DEVELOPING/blog app/package.json",
+		"/C/Users/USER/Documents/WEB DEVELOPING/databases/cats.js",
+		"/C/Users/USER/Documents/WEB DEVELOPING/Yelp camp/v2/views/new.ejs",
+		"/C/Users/USER/Documents/WEB DEVELOPING/blog app/package-lock.json",
+		"/C/Users/USER/Documents/WEB DEVELOPING/Yelp camp/v2/package.json",
+		"/C/Users/USER/Documents/WEB DEVELOPING/Image_Gallery.html",
+		"/C/Users/USER/Documents/WEB DEVELOPING/gallery.css",
+		"/C/Users/USER/Documents/WEB DEVELOPING/Yelp camp/app.js",
+		"/C/Users/USER/Documents/WEB DEVELOPING/Yelp camp/views/landing.ejs",
+		"/C/Users/USER/Documents/WEB DEVELOPING/Yelp camp/views/partials/header.ejs",
+		"/C/Users/USER/Documents/WEB DEVELOPING/Yelp camp/views/campgrounds.ejs",
+		"/C/Users/USER/Documents/WEB DEVELOPING/Yelp camp/views/new.ejs",
+		"/C/Users/USER/Documents/WEB DEVELOPING/grader.js",
+		"/C/Users/USER/Documents/WEB DEVELOPING/Yelp camp/views/partials/footer.ejs",
+		"/C/Users/USER/Documents/WEB DEVELOPING/APIs/movie_search_app/views/results.ejs",
+		"/C/Users/USER/Documents/WEB DEVELOPING/APIs/movie_search_app/views/search.ejs",
+		"/C/Users/USER/Documents/WEB DEVELOPING/APIs/movie_search_app/app.js",
+		"/C/Users/USER/Documents/WEB DEVELOPING/more express/ejs demo/app.js",
+		"/C/Users/USER/Documents/WEB DEVELOPING/express route assignment/app.js",
+		"/C/Users/USER/Documents/WEB DEVELOPING/demoApp/app.js",
+		"/C/Users/USER/Documents/WEB DEVELOPING/ourFirstApp/app.js",
+		"/C/Users/USER/Documents/WEB DEVELOPING/APIs/movie_search_app/trial.js",
+		"/C/Users/USER/Documents/WEB DEVELOPING/Web Dev/25 Working With APIs/250 Making API Requests with Node-tr.srt",
+		"/C/Users/USER/Documents/WEB DEVELOPING/APIs/first_request.js",
+		"/C/Users/USER/Documents/WEB DEVELOPING/more express/ejs demo/views/home.ejs",
+		"/C/Users/USER/Documents/WEB DEVELOPING/more express/ejs demo/views/love.ejs",
+		"/C/Users/USER/Documents/WEB DEVELOPING/more express/ejs demo/public/app.css",
+		"/C/Users/USER/Documents/WEB DEVELOPING/more express/ejs demo/views/posts.ejs",
+		"/C/Users/USER/Documents/WEB DEVELOPING/more express/ejs demo/views/partials/header.ejs",
+		"/C/Users/USER/Documents/WEB DEVELOPING/more express/ejs demo/views/partials/footer.ejs",
+		"/C/Users/USER/Documents/WEB DEVELOPING/more express/ejs demo/views/friends.ejs",
+		"/C/Users/USER/Documents/WEB DEVELOPING/Web Dev/24 Intermediate Express/244 EJS Conditionals and Loops-pt.srt",
+		"/C/Users/USER/Downloads/sublime-ejs-master/EJS.sublime-syntax",
+		"/C/Users/USER/Downloads/sublime-ejs-master/README.md",
+		"/C/Users/USER/Documents/WEB DEVELOPING/express route assignment/package-lock.json",
+		"/C/Users/USER/Documents/WEB DEVELOPING/express route assignment/package.json",
+		"/C/Users/USER/Documents/WEB DEVELOPING/myShop/listsProducts.js",
+		"/C/Users/USER/Documents/WEB DEVELOPING/solution.js",
+		"/C/Users/USER/Documents/WEB DEVELOPING/Web Dev/eccho.js",
+		"/C/Users/USER/Documents/WEB DEVELOPING/patatap clone/circles.css",
+		"/C/Users/USER/Documents/WEB DEVELOPING/Web Dev/19 OPTIONAL Project Patatap Clone/CodeAlong 4/data.js",
+		"/C/Users/USER/Documents/WEB DEVELOPING/patatap clone/circles.html",
+		"/C/Users/USER/Documents/WEB DEVELOPING/Web Dev/19 OPTIONAL Project Patatap Clone/CodeAlong 4/circles.html",
+		"/C/Users/USER/Documents/WEB DEVELOPING/hellp.html",
+		"/C/Users/USER/AppData/Roaming/Sublime Text 3/Packages/HTML/HTML.sublime-syntax",
+		"/C/Users/USER/Documents/WEB DEVELOPING/help.html",
+		"/C/Program Files (x86)/Sublime Text 3/Packages/HTML.zip",
+		"/C/Program Files (x86)/Sublime Text 3/Packages/HTML.sublime-syntax"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 156.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

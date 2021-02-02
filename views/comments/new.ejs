@@ -1,0 +1,19 @@
+<% include ../partials/header %>
+<div class="container">
+	<div >
+		<h1 style="margin-top: 20px; text-align: center;"> Add a comment to <%= campground.name %></h1>
+		<div style="width: 30%; margin: 25px auto; ">
+			<form action="/campgrounds/<%= campground._id %>/comments" method="POST">
+				<div class="form-group">
+					<input class="form-control" type="text" name="comment[comment]" placeholder="text goes here....">
+				</div>
+				<button class="btn btn-lg btn-primary btn-block">Submit!</button>
+			</form>
+			<a href="/campgrounds">View all Campgrounds</a>	
+		</div>
+			
+	</div>
+
+</div>
+
+<% include ../partials/footer %>

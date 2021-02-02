@@ -1,0 +1,33 @@
+
+.image{
+	margin-right: auto;
+    margin-left: auto;
+    display: block;
+    max-width: 100%;
+    height: auto
+    vertical-align: middle;
+   	box-sizing: border-box;
+}
+.topmargin{
+	margin-top: 30px;
+}
+
+.img-thumbnail {
+	padding: 0;
+}
+
+.img-thumbnail .caption-full {
+	padding: 9px;
+}
+
+#delete-form{
+    display: inline;
+}
+
+#topmargin {
+    margin-top: 30px;   
+}
+
+#price-form{
+    display: inline;
+}

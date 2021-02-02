@@ -1,0 +1,53 @@
+<% include ../partials/header %>
+<div class="container topmargin" >
+	<div class="row">
+		<div class="col-md-3">
+			<p class="lead">Yelpcamp</p>
+			<div class="list-group">
+				<li class="list-group-item active">Category 1</li>
+				<li class="list-group-item">Category 2</li>
+				<li class="list-group-item">Category 3</li>
+			</div>
+		</div>
+		<div class="col-md-9">
+			<div class="img-fluid img-thumbnail">
+				<img class="image img-responsive" src="<%= campgrounds.image %>"> 
+				<div class="caption-full">
+					<h4 class="float-right">$<%= campgrounds.price %>/night</h4>
+					<h4><a href="#"><%= campgrounds.name %></a></h4>
+					<p><%=campgrounds.description %></p>
+					<p><em>Submitted by <%=campgrounds.author.username %></em></p>
+					<% if ( currentUser && campgrounds.author.id.equals(currentUser._id)) { %>
+							<a class="btn btn-warning" href="/campgrounds/<%= campgrounds._id %>/edit" method="POST">Edit</a>
+							<form id="delete-form" action="/campgrounds/<%= campgrounds._id %>?_method=DELETE"  method="POST">
+								<button class="btn btn-danger">Delete</button>
+							</form>
+					<% } %>
+				</div>
+			</div>
+			<div class="card card-body bg-light topmargin">
+				<div class="text-right">
+					<a class="btn btn-success" href="/campgrounds/<%= campgrounds._id %>/comments/new" >Add a new comment</a>
+				</div>
+				<hr>
+				<%campgrounds.comments.forEach(function (comment){%>
+					<div class="row">
+						<div class="col-md-12">
+							<em><%= comment.author.username %></em>
+							<span class="float-right">10 days ago</span>
+							<p> <%= comment.comment %></p>
+							<%  if ( currentUser && comment.author.id.equals(currentUser._id)) { %>
+									<a class="btn btn-warning btn-sm" href="/campgrounds/<%= campgrounds._id %>/comments/<%= comment._id %>/edit">Edit</a>
+									<form id="delete-form" action="/campgrounds/<%= campgrounds._id %>/comments/<%= comment._id %>?_method=DELETE"  method="POST">
+										<button class="btn btn-danger btn-sm">Delete</button>
+									</form>
+							<%  } %>
+						</div>
+					</div>
+				<% }) %>
+			</div>
+		</div>
+	</div>
+</div>
+
+<% include ../partials/footer %>
